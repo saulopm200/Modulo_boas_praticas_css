@@ -1,0 +1,16 @@
+.produtos {
+    margin: 40px;
+  }
+  
+  .produtos__item {
+    margin-bottom: 16px;
+    font-family: sans-serif;
+  }
+  
+  .produtos__submit {
+    cursor: pointer;
+  }
+  
+  .produtos__submit--sending {
+    cursor: wait;
+  }
